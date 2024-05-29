@@ -10,7 +10,7 @@ const contentWidthKey = 'cWidthz';
 function applyCss() {
   const css = `
     * {
-      font-family: "FZYouSongJ GBK 506L", "FZSong III-Z05S", TsangerJinKai05, sans-serif !important;
+      font-family: "Source Han Serif", TsangerJinKai05, sans-serif !important;
     }
     
     .readerControls {
