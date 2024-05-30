@@ -10,7 +10,7 @@ const contentWidthKey = 'cWidthz';
 function applyCss() {
   const css = `
     * {
-      font-family: "Source Han Serif", TsangerJinKai05, sans-serif !important;
+      font-family: "Lantinghei SC", TsangerJinKai05, sans-serif !important;
     }
     
     .readerControls {
@@ -34,7 +34,7 @@ function applyCss() {
     }
 
     .wr_whiteTheme .readerContent div.app_content {
-      background-color: rgb(253,246,227) !important;
+      background-color: rgb(253,246,239) !important;
     }
 
     .readerBottomBar {
