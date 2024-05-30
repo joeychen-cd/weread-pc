@@ -34,7 +34,7 @@ function applyCss() {
     }
 
     .wr_whiteTheme .readerContent div.app_content {
-      background-color: rgb(253,246,239) !important;
+      background-color: rgb(246,247,249) !important;
     }
 
     .readerBottomBar {
