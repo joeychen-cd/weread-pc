@@ -10,7 +10,7 @@ const contentWidthKey = 'cWidthz';
 function applyCss() {
   const css = `
     * {
-      font-family: "Lantinghei SC", TsangerJinKai05, sans-serif !important;
+      font-family: "Lantinghei SC", "LXGW WenKai Screen", TsangerJinKai05, sans-serif !important;
     }
     
     .readerControls {
