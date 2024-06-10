@@ -9,9 +9,11 @@ const contentWidthKey = 'cWidthz';
 
 function applyCss() {
   const css = `
+    /*
     * {
       font-family: LXGWWenKai, "LXGW WenKai Screen", TsangerJinKai05, sans-serif !important;
     }
+    */
     
     .readerControls {
       left: unset !important;
